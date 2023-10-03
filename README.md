@@ -1,4 +1,4 @@
-**Data acquired to demonstrate a hemodynamics study in quantifying brain oxygenation using quantitative BOLD**
+# **Data acquired to demonstrate a hemodynamics study in quantifying brain oxygenation using quantitative BOLD** #
 
 Documentation:
 This dataset form the basis of a forthcoming publication regarding the quantitative BOLD (qBOLD) approach to measuring brain oxygenation during vasodilation. Please reference this dataset if you use it in your work.
